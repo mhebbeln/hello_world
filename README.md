@@ -1,18 +1,18 @@
 Senior at the University of Iowa studying Finance and Business Analytics. Passionate about data analysis and business strategies, with a love for the outdoors and spending time in nature.
-# Table of Contents
+# TABLE OF CONTENTS
 - [Project Title](#project-title)
 - [Project Description](#project-description)
 - [How to Run Program](#how-to-run-program)
 - [Files Used](#files-used)
 - [Additional Material](#additional-material)
 - [Versioning](#versioning)
-# Project Title
+# PROJECT TITLE
 - Hello World sample
-# Project Description
+# PROJECT TITLE
 - **Fake description test**
-# How to run Program
-# Files Used
+# HOW TO RUN PROGRAM
+# FILES USED
 - **https://www.basketball-reference.com/leagues/NBA_2015.html**
-# Additional Material
-# Versioning
+# ADDITIONAL MATERIAL
+# VERSIONING
 
