@@ -1,4 +1,3 @@
-Senior at the University of Iowa studying Finance and Business Analytics. Passionate about data analysis and business strategies, with a love for the outdoors and spending time in nature.
 # TABLE OF CONTENTS
 - [Project Title](#project-title)
 - [Project Description](#project-description)
