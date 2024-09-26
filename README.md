@@ -6,7 +6,7 @@
 - [Additional Material](#additional-material)
 - [Versioning](#versioning)
 # PROJECT TITLE
-- Hello World sample
+- >Hello World sample
 # PROJECT TITLE
 - **Fake description test**
 # HOW TO RUN PROGRAM
